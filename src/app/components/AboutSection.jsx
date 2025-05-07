@@ -58,9 +58,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">Sobre mim</h2>
           <p className="text-base lg:text-lg">
-          Sou estudante do 3º ano do ensino médio técnico em Informática na EEEP Professora Luiza de Teodoro Vieira (Pacatuba/CE),
-           com previsão de conclusão em dezembro de 2025. Tenho grande interesse em desenvolvimento de software, buscando constantemente 
-           novos desafios e oportunidades de aprendizado prático para evoluir tanto tecnicamente quanto no aspecto comportamental.
+          Sou estudante do 3º ano do ensino médio técnico em Informática na EEEP Professora Luiza de Teodoro Vieira,
+          com previsão de conclusão em dezembro de 2025. Tenho grande interesse em desenvolvimento de software, buscando constantemente 
+          novos desafios e oportunidades de aprendizado prático para evoluir tanto tecnicamente quanto no aspecto comportamental.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
