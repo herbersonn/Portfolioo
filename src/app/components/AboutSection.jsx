@@ -13,8 +13,8 @@ const TAB_DATA = [
         <li>Python</li>
         <li>PostgreSQL</li>
         <li>MySQL</li>
-        <li>HTML</li>
-        <li>JavaScript</li>
+        <li>HTML/CSS/Tailwind</li>
+        <li>JavaScript/React</li>
         
       </ul>
     ),

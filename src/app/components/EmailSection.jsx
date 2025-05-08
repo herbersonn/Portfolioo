@@ -85,7 +85,9 @@ const EmailSection = () => {
                 id="email"
                 required
                 className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
+
                 placeholder="SeuEmail@google.com"
+
               />
             </div>
             <div className="mb-6">
@@ -101,7 +103,9 @@ const EmailSection = () => {
                 id="subject"
                 required
                 className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="mande um oi"
+
+                placeholder="Mande um oi"
+
               />
             </div>
             <div className="mb-6">
@@ -122,7 +126,9 @@ const EmailSection = () => {
               type="submit"
               className="bg-primary-500 hover:bg-primary-600 text-white font-medium py-2.5 px-5 rounded-lg w-full"
             >
-              Envie Mensagem
+
+              Envie a Mensagem
+
             </button>
           </form>
         )}
